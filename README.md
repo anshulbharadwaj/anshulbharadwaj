@@ -6,4 +6,9 @@ I am Anshul Bharadwaj, and I am a Software engineer from India. <br>
 * I love building applications and discussing new product ideas.
 
 
+**Languages and Tools**
+<br>
+<img src = "https://github.com/anshulbharadwaj/assets/blob/master/icons/angular-icon.svg" alt="Angular" width="50" height="50" ></img>
+
+
 
